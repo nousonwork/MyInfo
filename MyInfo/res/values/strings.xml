@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyInfo</string>
+    <string name="title_activity_main">MyInfo</string>
+    <string name="hello_world">This is NousOnWork\'s App!</string>
+    <string name="action_settings">Settings</string>
+     <string name="service_name">MISvc</string>
+
+</resources>
